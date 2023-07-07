@@ -3,7 +3,7 @@ from flask import Flask, render_template, request
 import numpy as np
 import pickle
 
-# Load the Random Forest CLassifier model
+# Load the Decision Tree CLassifier model
 lr_regressor = pickle.load(open('decision_regressor-model.pkl', 'rb'))
 
 app = Flask(__name__)
