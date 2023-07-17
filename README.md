@@ -1,4 +1,4 @@
-## IPL Score Prediction Project
+## IPL Score Prediction
 
 ### Introduction
 In this project, I developed a machine learning model to predict the final score of an Indian Premier League (IPL) cricket match based on various features such as batting team, bowling team, overs played, runs scored, wickets taken, runs scored in the last 5 overs, and wickets taken in the last 5 overs.
